@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/Neovim-0.10+-blueviolet.svg?style=for-the-badge&color=000F10&logo=Neovim&logoColor=green&labelColor=302D41)](https://github.com/neovim/neovim)
 
 
-![neovim-logo](https://github.com/user-attachments/assets/246f5446-fc37-43d3-a7b0-f4c1a8bfa0d9)
+![neovim-logo](https://cdn.freebiesupply.com/logos/thumbs/1x/neovim-logo.png)
 
 
 
