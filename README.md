@@ -23,7 +23,9 @@ My Personal Neovim Configuration
 - Copy the config folder to `/home/USER/.config/nvim/`
 - Open neovim
 
-![Screenshot_2](https://github.com/user-attachments/assets/fd792513-20ac-4517-8f20-8a2a45856c1c)
+
+![image](https://github.com/user-attachments/assets/fc8054c0-6d4c-49be-bc12-a0699abadc5c)
+
 
 
 ## For Markdown Preview Plugin
